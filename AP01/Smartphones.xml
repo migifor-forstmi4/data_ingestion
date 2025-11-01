@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <Marke>Apple</Marke>
+    <Modell>iPhone 12</Modell>
+    <Baujahr>2020</Baujahr>
+    <Preis>799</Preis>
+    <Farbe>Schwarz</Farbe>
+  </row>
+  <row>
+    <Marke>Samsung</Marke>
+    <Modell>Galaxy S21</Modell>
+    <Baujahr>2021</Baujahr>
+    <Preis>999</Preis>
+    <Farbe>Weiß</Farbe>
+  </row>
+  <row>
+    <Marke>Google</Marke>
+    <Modell>Pixel 5</Modell>
+    <Baujahr>2020</Baujahr>
+    <Preis>699</Preis>
+    <Farbe>Grün</Farbe>
+  </row>
+  <row>
+    <Marke>OnePlus</Marke>
+    <Modell>8 Pro</Modell>
+    <Baujahr>2020</Baujahr>
+    <Preis>899</Preis>
+    <Farbe>Blau</Farbe>
+  </row>
+</data>
